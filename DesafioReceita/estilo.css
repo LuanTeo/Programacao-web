@@ -1,0 +1,135 @@
+body {
+    background-color: hsl(30, 54%, 90%);
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  section{
+    background-color:  hsl(0, 0%, 100%);
+    margin: 20%; ;
+    padding: 2%;
+    border-radius: 30px;
+    
+  } 
+
+
+div h1
+{
+  color: hsl(332, 51%, 32%);
+  font-size: 17px;
+  margin-left:40px;
+  
+}
+
+
+section p, section li,td
+{
+  font-size: 16px;
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  color: hsl(30, 10%, 34%);
+  margin-left: 18px;
+
+}
+
+div
+{
+  margin: 10px;
+  background-color: hsl(330, 100%, 98%) ;
+  border-radius: 20px;
+  padding: 2%;
+
+}
+h1
+ {
+  color: hsl(14, 45%, 36%);
+  font-size: 24px;
+  margin-left: 18px;
+}
+
+div li {
+  font-size: 14px;
+  padding: 1% 3%  ;
+  color: hsl(30, 10%, 34%);
+  
+}
+img
+{
+  width: 98%;
+  height: 100%;
+  border-radius: 20px;
+  margin: 2% ;
+  display: block;
+  
+}
+.Tema
+{
+  color: hsl(24, 5%, 18%);
+  font-size: 40px;
+  margin-left: 18px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  
+}
+
+th, td {
+  padding: 10px 50px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+  
+}
+.info
+{
+  color:hsl(14, 45%, 36%);
+  font-weight: bold;
+}
+
+b
+{
+  color: hsl(30, 10%, 34%);
+  font-weight: bold;
+}
+
+li::marker {
+  color:hsl(14, 45%, 36%);
+  font-weight: bold;
+}
+@media ( max-width: 980px )
+{
+  section
+  {
+    margin: 15%; ;
+  } 
+  
+}
+@media ( max-width: 700px )
+{
+  section
+  {
+    margin: 10%; ;   
+  } 
+  
+}
+
+@media ( max-width: 480px )
+{
+  section
+  {
+    margin: 5%; ;
+    
+  } 
+  
+}
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
