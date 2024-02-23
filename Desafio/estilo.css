@@ -1,0 +1,44 @@
+body
+{
+background-color: hsl(225, 100%, 94%);
+
+}
+section
+{
+    font-family: "Red Hat Display", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal; 
+    border-radius: 10px; 
+    padding: 2%;
+    text-align: center;
+}
+div img{
+    width: 18%;
+    height: 10%;
+    border-radius: 20px;
+    margin: 2% ;
+    display: block;
+    
+}
+h1{
+    text-align: center;
+}
+
+img
+{
+    width: 35%;
+    height: 20%;
+    border-radius: 20px;
+    margin: 20% ;
+    
+    
+}
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
